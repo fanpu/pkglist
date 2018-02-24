@@ -224,6 +224,7 @@ musescore
 mutter
 nano
 nautilus
+ncdu
 ncmpcpp
 neofetch
 netctl
@@ -254,6 +255,7 @@ osx-arc-shadow
 osx-el-capitan-theme-git
 otf-overpass
 pacaur
+pacgraph
 pacman
 pamixer
 patch
