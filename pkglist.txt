@@ -181,6 +181,7 @@ i3blocks
 i3lock
 i3pystatus
 i3status
+i7z
 iagno
 ida-pro-6.4
 incron
@@ -266,6 +267,7 @@ pavucontrol
 paxtest
 pciutils
 pcmciautils
+pdnsd
 peda
 perl
 perl-image-exiftool
