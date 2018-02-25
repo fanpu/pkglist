@@ -48,7 +48,6 @@ cowfortune
 cowsay
 cronie
 cryptsetup
-cw
 dconf-editor
 deepin-screenshot
 devhelp
