@@ -48,6 +48,7 @@ cowfortune
 cowsay
 cronie
 cryptsetup
+cw
 dconf-editor
 deepin-screenshot
 devhelp
@@ -158,6 +159,7 @@ google-talkplugin
 gparted
 gradle
 graphicsmagick
+grc
 grep
 grilo-plugins
 groff
