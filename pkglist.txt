@@ -284,6 +284,7 @@ pulseaudio-equalizer
 pulseeffects
 puush
 pv
+pwgen
 pwndbg
 py++
 python-flask
