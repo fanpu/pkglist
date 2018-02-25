@@ -78,7 +78,7 @@ extundelete
 fabric
 fakeroot
 fcrackzip
-fd-rs
+fd
 feh
 file
 file-roller
@@ -369,7 +369,6 @@ unrar
 upx
 usbutils
 util-linux
-v4l2loopback-dkms
 valgrind
 vi
 vinagre
