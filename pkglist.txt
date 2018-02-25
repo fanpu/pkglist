@@ -175,6 +175,7 @@ gvim
 gzip
 hdparm
 hitori
+htop
 i3-wm
 i3blocks
 i3lock
@@ -215,6 +216,7 @@ man-db
 man-pages
 mariadb
 mdadm
+mesa-demos
 minikube
 mlocate
 mousetweaks
