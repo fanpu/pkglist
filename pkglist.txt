@@ -260,6 +260,7 @@ pacman
 pamixer
 patch
 pavucontrol
+paxtest
 pciutils
 pcmciautils
 peda
