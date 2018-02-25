@@ -85,6 +85,7 @@ file-roller
 filesystem
 findutils
 firefox-nightly
+firejail
 fish
 five-or-more
 flashplugin
