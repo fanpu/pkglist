@@ -199,6 +199,7 @@ john
 jsoncpp
 kubectl-bin
 less
+lib32-nvidia-utils
 libgnome-games-support
 libnetctlgui
 libreoffice-fresh
