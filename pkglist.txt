@@ -283,7 +283,7 @@ polari
 polybar
 postgresql
 postgresql-libs
-postman-bin
+postman
 powerline
 powerline-fonts
 procps-ng
