@@ -48,6 +48,7 @@ cowfortune
 cowsay
 cronie
 cryptsetup
+cscope
 dconf-editor
 deepin-screenshot
 devhelp
@@ -303,6 +304,7 @@ python-pydotplus
 python-pywal
 python-tensorflow-opt-cuda
 python2-pydotplus
+python2-sphinx
 qalculate-gtk
 qemu
 qemu-arch-extra
