@@ -62,6 +62,7 @@ dmenu
 docker
 docker-compose
 dropbox
+dwdiff
 e2fsprogs
 efibootmgr
 electrum
