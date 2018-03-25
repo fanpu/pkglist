@@ -36,6 +36,7 @@ brasero
 brother-hl2270dw
 bzip2
 caffe
+calf
 chrome-gnome-shell-git
 chromium
 cmatrix
