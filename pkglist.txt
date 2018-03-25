@@ -289,6 +289,7 @@ postgresql-libs
 postman
 powerline
 powerline-fonts
+powershell
 procps-ng
 psmisc
 pulseaudio-ctl
