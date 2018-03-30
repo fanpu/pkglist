@@ -369,6 +369,7 @@ tixati
 tk
 tmux
 toilet
+tor
 totem
 traceroute
 tracker
