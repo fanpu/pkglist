@@ -312,6 +312,7 @@ qalculate-gtk
 qemu
 qemu-arch-extra
 qt4
+qtchan
 quadrapassel
 radare2
 ranger
