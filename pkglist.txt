@@ -86,6 +86,7 @@ feh
 file
 file-roller
 filesystem
+filezilla
 findutils
 firefox-nightly
 firejail
@@ -150,9 +151,9 @@ gnome-system-monitor
 gnome-taquin
 gnome-terminal
 gnome-tetravex
-gnome-themes-standard
+gnome-themes-extra
 gnome-todo
-gnome-tweak-tool
+gnome-tweaks
 gnome-user-docs
 gnome-user-share
 gnome-weather
