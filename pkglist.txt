@@ -3,9 +3,6 @@ adobe-source-han-sans-jp-fonts
 adwaita-icon-theme
 aisleriot
 alsa-utils
-android-platform
-android-sdk-build-tools
-android-studio
 anjuta
 arc-gtk-theme
 arc-osx-icon-theme-git
@@ -35,7 +32,6 @@ boost
 brasero
 brother-hl2270dw
 bzip2
-caffe
 calf
 chrome-gnome-shell-git
 chromium
@@ -259,7 +255,6 @@ openssh
 opera
 orca
 os-prober
-osu-wine-git
 osx-arc-darker
 osx-arc-plus
 osx-arc-shadow
@@ -301,12 +296,12 @@ pv
 pwgen
 pwndbg
 py++
+pyneighborhood
 python-flask
 python-gevent
 python-pip
 python-pydotplus
 python-pywal
-python-tensorflow-opt-cuda
 python2-pydotplus
 python2-sphinx
 qalculate-gtk
@@ -396,9 +391,6 @@ weechat
 wget
 which
 wifi-radar
-wine
-wine-mono
-wine_gecko
 wireshark-cli
 wireshark-gtk
 wpa_actiond
