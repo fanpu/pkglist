@@ -58,6 +58,7 @@ diffutils
 dmenu
 docker
 docker-compose
+docker-machine
 dropbox
 dwdiff
 e2fsprogs
