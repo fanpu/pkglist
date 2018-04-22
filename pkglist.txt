@@ -447,4 +447,5 @@ yarn
 yelp
 youtube-dl
 z
+zaproxy
 zsh
