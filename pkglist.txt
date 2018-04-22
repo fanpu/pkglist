@@ -175,6 +175,7 @@ gvfs-nfs
 gvfs-smb
 gvim
 gzip
+hashcat
 hdparm
 hitori
 htop
