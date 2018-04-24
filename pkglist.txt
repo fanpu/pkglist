@@ -2,6 +2,7 @@ accerciser
 adobe-source-han-sans-jp-fonts
 adwaita-icon-theme
 aisleriot
+alex
 alsa-utils
 anjuta
 arc-gtk-theme
@@ -33,6 +34,7 @@ brasero
 brother-hl2270dw
 burpsuite
 bzip2
+cabal-install
 calf
 chrome-gnome-shell-git
 chromium
@@ -104,6 +106,7 @@ geany
 gedit
 gedit-code-assistance
 gettext
+ghc
 ghex
 gimp
 gitflow-avh-git
@@ -176,7 +179,9 @@ gvfs-nfs
 gvfs-smb
 gvim
 gzip
+happy
 hashcat
+haskell-haddock-library
 hdparm
 hitori
 htop
@@ -339,6 +344,7 @@ snort
 socat
 sox
 spotify
+stack
 steam
 strace
 sudo
