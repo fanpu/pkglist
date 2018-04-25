@@ -326,6 +326,7 @@ rbenv
 redis
 reiserfsprogs
 renpy
+rsync
 rtl-sdr
 ruby
 ruby-rdoc
