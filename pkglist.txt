@@ -71,7 +71,6 @@ emacs
 emacs-find-file-in-project
 empathy
 eog
-epiphany
 etckeeper
 evince
 evolution
