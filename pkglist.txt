@@ -333,6 +333,7 @@ rubymine
 rxvt-unicode
 rygel
 s-nail
+sagemath
 scala
 screenfetch
 scrot
@@ -344,6 +345,7 @@ snort
 socat
 sox
 spotify
+sqlmap
 stack
 steam
 strace
