@@ -196,6 +196,7 @@ incron
 inetutils
 intel-ucode
 intellij-idea-community-edition
+invoke
 iproute2
 iputils
 iw
@@ -311,6 +312,7 @@ python-gevent
 python-pip
 python-pydotplus
 python-pywal
+python2-invoke
 python2-pydotplus
 python2-sphinx
 qalculate-gtk
