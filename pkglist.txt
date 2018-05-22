@@ -77,7 +77,6 @@ evolution
 exa
 expac
 extundelete
-fabric
 fakeroot
 fcrackzip
 fd
@@ -196,7 +195,6 @@ incron
 inetutils
 intel-ucode
 intellij-idea-community-edition
-invoke
 iproute2
 iputils
 iw
@@ -230,6 +228,7 @@ mariadb
 mdadm
 mesa-demos
 minikube
+mitmproxy
 mlocate
 mousetweaks
 mpd
@@ -309,6 +308,7 @@ py++
 pyneighborhood
 python-flask
 python-gevent
+python-libnacl
 python-pip
 python-pydotplus
 python-pywal
