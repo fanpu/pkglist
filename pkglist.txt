@@ -393,6 +393,7 @@ ttf-bitstream-vera
 ttf-font-awesome
 ttf-hack
 ttf-inconsolata
+ttf-ubuntu-font-family
 unrar
 upx
 urxvt-font-size-git
