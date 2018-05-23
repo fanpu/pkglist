@@ -392,6 +392,7 @@ ttf-arphic-uming
 ttf-bitstream-vera
 ttf-font-awesome
 ttf-hack
+ttf-inconsolata
 unrar
 upx
 urxvt-font-size-git
