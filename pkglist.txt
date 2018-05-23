@@ -166,6 +166,7 @@ grep
 grilo-plugins
 groff
 grub
+gtk2fontsel
 gucharmap
 gvfs
 gvfs-afc
@@ -391,9 +392,9 @@ ttf-arphic-uming
 ttf-bitstream-vera
 ttf-font-awesome
 ttf-hack
-ttf-ibm-plex-git
 unrar
 upx
+urxvt-font-size-git
 usbutils
 util-linux
 valgrind
@@ -436,6 +437,7 @@ xorg-xcursorgen
 xorg-xdpyinfo
 xorg-xdriinfo
 xorg-xev
+xorg-xfontsel
 xorg-xgamma
 xorg-xinit
 xorg-xinput
