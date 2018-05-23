@@ -190,6 +190,7 @@ i3pystatus
 i3status
 i7z
 iagno
+ibm-plex-fonts
 ida-pro-6.4
 incron
 inetutils
