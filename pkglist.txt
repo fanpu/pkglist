@@ -312,6 +312,7 @@ python-flask
 python-gevent
 python-libnacl
 python-pip
+python-pipenv
 python-pydotplus
 python-pywal
 python2-invoke
