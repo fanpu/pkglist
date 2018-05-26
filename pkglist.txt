@@ -407,6 +407,7 @@ vinagre
 vino
 virtualbox
 vlc
+volatility
 w3m
 weechat
 wget
