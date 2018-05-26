@@ -354,6 +354,7 @@ sqlmap
 stack
 steam
 steghide
+stegsolve
 strace
 sudo
 sushi
