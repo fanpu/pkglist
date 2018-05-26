@@ -353,6 +353,7 @@ spotify
 sqlmap
 stack
 steam
+steghide
 strace
 sudo
 sushi
