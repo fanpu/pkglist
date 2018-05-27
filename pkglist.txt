@@ -71,6 +71,7 @@ emacs
 emacs-find-file-in-project
 empathy
 eog
+escrotum-git
 etckeeper
 evince
 evolution
