@@ -13,6 +13,7 @@ asus-kbd-backlight
 atomix
 autoconf
 automake
+aws-cli
 baobab
 bash
 bash-completion
