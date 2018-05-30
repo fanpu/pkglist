@@ -231,6 +231,7 @@ man-pages
 mariadb
 mdadm
 mesa-demos
+messengerfordesktop
 minikube
 mitmproxy
 mlocate
