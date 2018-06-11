@@ -1,6 +1,7 @@
 accerciser
 adobe-source-han-sans-jp-fonts
 adwaita-icon-theme
+aircrack-ng
 aisleriot
 alex
 alsa-utils
