@@ -189,6 +189,7 @@ haskell-haddock-library
 hdparm
 hitori
 htop
+hydra
 i3-wm
 i3blocks
 i3lock
