@@ -60,6 +60,7 @@ dhclient
 dhcpcd
 dialog
 diffutils
+dirbuster
 dmenu
 docker
 docker-compose
