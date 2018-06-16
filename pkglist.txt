@@ -233,6 +233,7 @@ mariadb
 mdadm
 mesa-demos
 messengerfordesktop
+metasploit
 minikube
 mitmproxy
 mlocate
