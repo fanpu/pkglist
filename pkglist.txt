@@ -12,6 +12,7 @@ asciiquarium
 asus-fan-dkms-git
 asus-kbd-backlight
 atomix
+audacity
 autoconf
 automake
 aws-cli
