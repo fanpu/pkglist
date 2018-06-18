@@ -39,6 +39,7 @@ burpsuite
 bzip2
 cabal-install
 calf
+capistrano
 chrome-gnome-shell-git
 chromium
 cmatrix
@@ -363,6 +364,7 @@ renpy
 rsync
 rtl-sdr
 ruby
+ruby-net-scp
 ruby-rdoc
 rubymine
 rxvt-unicode
