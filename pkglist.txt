@@ -447,6 +447,7 @@ weechat
 wget
 which
 wifi-radar
+wine
 wireshark-cli
 wireshark-gtk
 wpa_actiond
