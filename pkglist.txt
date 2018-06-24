@@ -92,6 +92,7 @@ file-roller
 filesystem
 filezilla
 findutils
+firefox
 firefox-nightly
 firejail
 fish
