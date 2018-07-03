@@ -1,4 +1,5 @@
 accerciser
+adobe-source-han-sans-cn-fonts
 adobe-source-han-sans-jp-fonts
 adwaita-icon-theme
 aircrack-ng
@@ -83,6 +84,13 @@ exa
 expac
 extundelete
 fakeroot
+fcitx
+fcitx-configtool
+fcitx-googlepinyin
+fcitx-gtk2
+fcitx-gtk3
+fcitx-qt4
+fcitx-qt5
 fcrackzip
 fd
 feh
