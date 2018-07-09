@@ -305,7 +305,7 @@ perl
 perl-image-exiftool
 php-apache
 phppgadmin
-pkg-config
+pkgconf
 pkgfile
 plasma5-applet-netctl-gui
 polari
