@@ -202,6 +202,7 @@ hydra
 i3-wm
 i3blocks
 i3lock
+i3lock-fancy-git
 i3pystatus
 i3status
 i7z
