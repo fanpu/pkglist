@@ -221,6 +221,7 @@ jdk8-openjdk
 jfsutils
 john
 jsoncpp
+krita
 kubectl-bin
 less
 lib32-nvidia-utils
