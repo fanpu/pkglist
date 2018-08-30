@@ -389,6 +389,7 @@ seahorse
 sed
 shadow
 slack-desktop
+smlnj
 snort
 socat
 sox
