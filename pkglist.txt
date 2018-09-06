@@ -281,6 +281,7 @@ numix-themes-osx-git
 nvidia-dkms
 nvidia-settings
 oh-my-zsh-git
+okular
 oneko
 openblas-lapack
 opencl-nvidia
