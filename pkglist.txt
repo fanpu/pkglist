@@ -283,6 +283,8 @@ nvidia-settings
 oh-my-zsh-git
 okular
 oneko
+openafs
+openafs-modules-dkms
 openblas-lapack
 opencl-nvidia
 openssh
