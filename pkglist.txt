@@ -211,6 +211,7 @@ i3status
 i7z
 iagno
 ibm-plex-fonts
+ida-free
 ida-pro-6.4
 incron
 inetutils
@@ -343,6 +344,7 @@ python-pipenv
 python-pydotplus
 python-pywal
 python2-invoke
+python2-pwntools
 python2-pydotplus
 python2-sphinx
 qalculate-gtk
