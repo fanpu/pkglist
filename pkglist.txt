@@ -216,6 +216,7 @@ ida-free
 ida-pro-6.4
 incron
 inetutils
+inkscape
 intel-ucode
 intellij-idea-community-edition
 iproute2
