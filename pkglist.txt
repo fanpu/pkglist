@@ -200,6 +200,7 @@ hashcat
 haskell-haddock-library
 hdparm
 hitori
+hopper
 htop
 hydra
 i3-wm
