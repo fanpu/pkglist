@@ -203,7 +203,7 @@ hitori
 hopper
 htop
 hydra
-i3-wm
+i3-gaps
 i3blocks
 i3lock
 i3lock-fancy-git
