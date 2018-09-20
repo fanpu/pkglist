@@ -386,7 +386,6 @@ rsync
 rtl-sdr
 ruby
 ruby-rdoc
-rubymine
 rxvt-unicode
 rygel
 s-nail
@@ -405,7 +404,6 @@ sox
 spotify
 sqlmap
 stack
-steam
 steghide
 stegsolve
 strace
