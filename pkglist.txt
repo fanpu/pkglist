@@ -263,6 +263,7 @@ mousetweaks
 mpd
 mps-youtube
 mpv
+mtr
 musescore
 mutter
 nano
