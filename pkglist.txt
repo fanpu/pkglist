@@ -10,6 +10,7 @@ alsa-utils
 anjuta
 arc-gtk-theme
 arc-osx-icon-theme-git
+arp-scan
 asciiquarium
 asus-fan-dkms-git
 asus-kbd-backlight
