@@ -399,6 +399,7 @@ scrot
 seahorse
 sed
 shadow
+skypeforlinux-stable-bin
 slack-desktop
 smlnj
 snort
