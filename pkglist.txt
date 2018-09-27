@@ -167,7 +167,7 @@ gnome-sound-recorder
 gnome-sudoku
 gnome-system-monitor
 gnome-taquin
-gnome-terminal
+gnome-terminal-transparency
 gnome-tetravex
 gnome-themes-extra
 gnome-todo
