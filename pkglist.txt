@@ -340,6 +340,7 @@ pv
 pwgen
 pwndbg
 py++
+pyalpm
 pyneighborhood
 python-flask
 python-gevent
