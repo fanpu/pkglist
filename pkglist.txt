@@ -70,8 +70,6 @@ diffutils
 dirbuster
 dmenu
 docker
-docker-compose
-docker-machine
 dropbox
 dwdiff
 e2fsprogs
@@ -295,7 +293,6 @@ openafs-modules-dkms
 openblas-lapack
 opencl-nvidia
 openssh
-openvpn
 opera
 orca
 os-prober
