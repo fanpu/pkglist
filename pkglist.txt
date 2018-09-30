@@ -310,6 +310,7 @@ pavucontrol
 paxtest
 pciutils
 pcmciautils
+pdfstudio
 pdnsd
 peda
 perl
