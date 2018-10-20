@@ -226,6 +226,7 @@ jd-gui-bin
 jdk8-openjdk
 jfsutils
 john
+jp2a
 jsoncpp
 krita
 kubectl-bin
