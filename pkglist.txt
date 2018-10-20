@@ -440,6 +440,7 @@ thermald
 tigervnc
 tixati
 tk
+tldr
 tmux
 toilet
 tor
