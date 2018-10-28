@@ -483,6 +483,7 @@ xdg-user-dirs-gtk
 xf86-video-nouveau
 xf86-video-vesa
 xfsprogs
+xonsh
 xorg-docs
 xorg-fonts-100dpi
 xorg-fonts-75dpi
