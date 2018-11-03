@@ -246,6 +246,7 @@ lshw
 lsof
 ltrace
 lvm2
+lynx
 m4
 mackup
 make
