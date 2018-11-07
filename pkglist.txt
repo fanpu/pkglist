@@ -276,6 +276,7 @@ mps-youtube
 mpv
 mtr
 musescore
+mutt
 mutter
 nano
 nautilus
