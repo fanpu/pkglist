@@ -261,6 +261,7 @@ make
 man-db
 man-pages
 mariadb
+mc
 mdadm
 mediainfo
 mesa-demos
