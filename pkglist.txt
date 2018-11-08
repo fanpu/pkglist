@@ -300,6 +300,7 @@ numix-icon-theme-git
 numix-themes-osx-git
 nvidia-dkms
 nvidia-settings
+offlineimap
 oh-my-zsh-git
 okular
 oneko
