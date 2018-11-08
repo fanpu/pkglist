@@ -275,6 +275,7 @@ mpc
 mpd
 mps-youtube
 mpv
+msmtp
 mtr
 musescore
 mutt
