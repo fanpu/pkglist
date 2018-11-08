@@ -283,6 +283,7 @@ nautilus
 ncdu
 ncmpcpp
 neofetch
+neomutt
 netctl
 netctlgui-helper
 network-manager-applet
