@@ -459,6 +459,7 @@ texlive-publishers
 texlive-science
 the_silver_searcher
 thermald
+thunderbird
 tigervnc
 tixati
 tk
