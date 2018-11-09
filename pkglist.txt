@@ -33,6 +33,7 @@ bcompare-mate
 bcompare-nautilus
 bcompare-thunar
 beep
+bfg
 bgrep
 binutils
 binwalk
