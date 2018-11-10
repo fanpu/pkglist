@@ -346,6 +346,7 @@ postgresql-libs
 postman
 powerline
 powerline-fonts
+powerline-vim
 powershell
 procps-ng
 psmisc
