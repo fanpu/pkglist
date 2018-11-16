@@ -530,6 +530,7 @@ xorg-sessreg
 xorg-smproxy
 xorg-x11perf
 xorg-xbacklight
+xorg-xcalc
 xorg-xcmsdb
 xorg-xcursorgen
 xorg-xdpyinfo
