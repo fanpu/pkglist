@@ -118,6 +118,9 @@ flashplugin
 flatplat-theme
 flex
 fluidsynth
+foomatic-db
+foomatic-db-engine
+foomatic-db-ppds
 foremost
 four-in-a-row
 funny-manpages
