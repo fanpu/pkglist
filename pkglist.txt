@@ -205,6 +205,7 @@ gvfs-mtp
 gvfs-nfs
 gvfs-smb
 gvim
+gwinwrap-git
 gzip
 happy
 hashcat
@@ -240,6 +241,7 @@ jfsutils
 john
 jp2a
 jsoncpp
+komorebi
 krita
 kubectl-bin
 less
