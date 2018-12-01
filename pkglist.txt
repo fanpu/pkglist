@@ -318,6 +318,7 @@ openafs-modules-dkms
 openblas-lapack
 opencl-nvidia
 openssh
+openswan
 opera
 orca
 os-prober
@@ -521,6 +522,7 @@ xdotool
 xf86-video-nouveau
 xf86-video-vesa
 xfsprogs
+xl2tpd
 xonsh
 xorg-docs
 xorg-fonts-100dpi
