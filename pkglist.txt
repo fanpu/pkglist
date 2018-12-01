@@ -75,6 +75,7 @@ diffutils
 dirbuster
 dmenu
 docker
+docker-compose
 dropbox
 dunst
 dwdiff
